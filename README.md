@@ -1,10 +1,9 @@
-Hello ! 
+Hello !
 
-Je travaille actuellement sur une application qui utilise les API de LMS pour automatiser de l'analayse de données 
+Je travaille actuellement sur une application qui utilise les API de LMS pour automatiser l’analyse de données.
 
-J'ai plein d'autre projet pour faciliter la vie des usagés de véhicule éléctrique durant leur recharge
+J’ai plein d’autres projets pour faciliter la vie des usagers de véhicules électriques pendant leur recharge.
 
-Venez rejoindre le monde des bornes de recharge pour les voitures éléctriques ! 
+Rejoignez le monde des bornes de recharge pour les voitures électriques !
 
 Sowatt Solutions
-
